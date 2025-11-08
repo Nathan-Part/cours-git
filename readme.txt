@@ -1,1 +1,1 @@
-Bienvenue sur GitHu
+Bienvenue sur GitHub
